@@ -12,3 +12,4 @@ gemspec
 
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
+gem 'paperclip_oss_storage', github: "charlescui/paperclip_oss_storage", branch: "master"
